@@ -1,1 +1,3 @@
-This file is mandatory in projects
+#My first readme file
+
+`This is a markdown text`
